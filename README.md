@@ -4,7 +4,7 @@
  - [Demo](https://themewagon.github.io/Rainblur-Landing-Page/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/Rainblur-Landing-Page/)
+ - [Download from ThemeWagon](https://themewagon.com/themes/rainblur/)
 
 ## Getting Started
 
